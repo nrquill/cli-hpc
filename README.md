@@ -43,14 +43,6 @@ But in terms of this program is only:
 
 **Even with these limitations, this tool is highly useful for quick and easy access to human proportions. If anything, it's more accurate than [HPC](https://hpc.anatomy4sculptors.com/)  by my lerping functionality**
 
-### Age to Head Ratio:
-	Age 6 is 5.5 heads tall
-	Age 11 is 6 heads tall
-	Age 15 is 7 heads tall
-	Age 21 is 7.5 heads tall
-	Age 50 is 8 heads tall
-	Age 70 is 7 heads tall
-
 ## Interpolation
 In order to ensure a linear interpolation between these ranges, I ran functions to do this
 
