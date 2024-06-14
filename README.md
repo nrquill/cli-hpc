@@ -4,13 +4,11 @@
   This python program is made for a quick output of human proportions. Using the "**argparse**" module, the program HAS to be ran with arguments. Said arguments being:
 
 ```
->py cli-hpc.py Age[m|f] Height[ft|m] {x}
-as,
->py cli-hpc.py 21m 6.2ft x
-
 	Args:
 Age[m|f]      Age entry along with a Gender Entry
 Height[ft|m]  Height entry along with unit display, doesn't make a difference under the hood.     {x}        Optional, if you want see the detailed list of each limb
+
+>py cli-hpc.py 21m 6.2ft x
 ```
 
 
