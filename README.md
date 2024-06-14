@@ -11,6 +11,7 @@ Age[m|f]      Age entry along with a Gender Entry
 Height[ft|m]  Height entry along with unit display, doesn't make a difference under the hood.
 {x}        Optional, if you want see the detailed list of each limb
 
+example:
 >py cli-hpc.py 21m 6.2ft x
 ```
 
