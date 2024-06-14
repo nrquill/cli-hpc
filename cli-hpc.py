@@ -114,9 +114,12 @@ def main():
         txt.append(f"Neck w/ Head: {TRUE_RATIO['Chin_To_S']}")
         txt.append("~~~~~~~~~~~~~~~~~~~~~~~")
 
-
     for line in txt:
         print(line)
+
+def lerpY(x0, y0, x1, y1, x):
+    """Linearly interpolates between (x0, y0) and (x1, y1) at point x."""
+    return y0 + (x - x0) * (y1 - y0) / (x1 - x0)
 
 def interpolate_ratio(age, ratio_dict, unit):
     # Iterate through each body part and interpolate if possible
@@ -134,11 +137,6 @@ def interpolate_ratio(age, ratio_dict, unit):
                     newDict[key] = round(interpolated_ratio, 3)
                     break
     return newDict
-
-
-def lerpY(x0, y0, x1, y1, x):
-    """Linearly interpolates between (x0, y0) and (x1, y1) at point x."""
-    return y0 + (x - x0) * (y1 - y0) / (x1 - x0)
 
 if __name__ == "__main__":
     main()
