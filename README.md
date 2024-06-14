@@ -52,7 +52,7 @@ Even with these limitations, this tool is highly useful for quick and easy acces
 	Age 50 is 8 heads tall
 	Age 70 is 7 heads tall
 
-## Linear Interpolation
+## Interpolation
 In order to ensure a linear interpolation between these ranges, I ran functions to do this
 
 ```python
