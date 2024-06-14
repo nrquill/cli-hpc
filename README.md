@@ -3,7 +3,7 @@ Human Proportion Calculator From the CLI
 #### Description: 
 	
 
-  This python program is made for a quick output of human proportions. With the ratios derived from [an online HPC](https://hpc.anatomy4sculptors.com/) 
+  This python program is made for a quick output of human proportions, with the ratios derived from [an online HPC](https://hpc.anatomy4sculptors.com/) 
 
 ```
 	Args:
