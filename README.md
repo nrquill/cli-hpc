@@ -41,8 +41,8 @@ But in terms of this program is only:
 - Gender
 
 
-Even with these limitations, this tool is highly useful for quick and easy access to human proportions. If anything, it's more accurate than [HPC](https://hpc.anatomy4sculptors.com/)  by my lerping functionality 
-
+**Even with these limitations, this tool is highly useful for quick and easy access to human proportions. If anything, it's more accurate than [HPC](https://hpc.anatomy4sculptors.com/)  by my lerping functionality 
+**
 
 ### Age to Head Ratio:
 	Age 6 is 5.5 heads tall
