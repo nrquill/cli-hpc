@@ -41,7 +41,7 @@ But in terms of this program is only:
 - Gender
 
 
-Even with these limitations, this tool is highly useful for quick and easy access to human proportions.
+Even with these limitations, this tool is highly useful for quick and easy access to human proportions. If anything more accurate than HPC by the lerping functionality 
 
 
 ### Age to Head Ratio:
